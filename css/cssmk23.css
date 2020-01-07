@@ -1,0 +1,227 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+    font-family: Arial;
+    margin: auto;
+    text-align: center;
+    padding: 0px;
+    background-color: #3e3e41;
+    color: #ffffff;;
+}
+#header{
+    margin: auto;
+    border-top: #ffc73d 5px solid;
+    height: 363px;
+    width: 1000px;
+}
+#left {
+    float: left;
+    width: 298px;
+    border-top: #ffc73d solid 5px;
+    margin: 2px 2px 2px 433px;
+    text-align:left;
+}
+#l1{
+    float: left;
+    margin:0px 0px 2px 0px;
+    padding: 0px 0px 2px 0px;
+    width: 298px;
+    height: 400px;
+    background-color: #343437;
+}
+#l1 h1{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 2px 20px;
+    background-image: url("img/icon2.jpg" );
+    font-size: 15px;
+    text-align:left;
+}
+#l1 ul{
+    list-style: none;
+    margin: 0px;
+    padding: 2px 18px 5px 18px;
+}
+#l1 ul li{
+    padding: 2px 0px 2px 16px;
+    border-bottom: 1px dashed ;
+    background:url(img/icon1.JPG) no-repeat 1px;
+}
+#l2{
+    float: left;
+    border-top: #ffc73d 5px solid ;
+    margin: 5px 2px 2px 0px;
+    padding: 0px 0px 2px 0px;
+    width: 298px;
+    height: 350px;
+    background-color: #343437;
+}
+#l2 ul{
+    list-style: none;
+    margin: 0px;
+    padding: 2px 18px 5px 2px;
+}
+#l2 h1{
+    margin: 0px 0px 0px 0px;
+    padding: 1px 0px 2px 20px;
+    background-image: url("img/icon2.jpg" );
+    font-size: 15px;
+    text-align:left;
+}
+#l2 p{
+    margin: 2px 2px 2px 15px;
+    font-size: 15px;
+    padding: 0px;
+    text-align: left;
+    text-indent: 30px;
+}
+#l2 a{
+    display: block;
+    padding: 5px 0px 0px 15px;
+    margin: 0px;
+    color: #ffc73d;
+    font-size: 15px;
+}
+#l2 a:visited{
+    color: #9f9fa2;
+}
+#l2 a:hover{
+    color: #fff6aa;
+}
+#l2 ul li{
+    margin: 0px 0px 0px 30px;
+    font-size: 15px;
+    padding: 2px 0px 2px 16px;
+    border-bottom: none;
+    background:url(img/icon1.JPG) no-repeat 1px;
+}
+#right{
+    width: 700px;
+    float: right;
+    padding: 0px 2px 2px 0px;
+    margin: 2px 425px 2px 0px;
+    text-align: left;
+}
+#r1{
+    border-top: solid #ffc73d 5px;
+    float: left;
+    margin:0px 0px 2px 0px;
+    padding: 0px 0px 2px 0px;
+    width: 200px;
+    height: 250px;
+    background-color: #343437;
+}
+#r1 ul{
+    list-style: none;
+    margin: 0px;
+    padding: 2px 18px 5px 18px;
+}
+#r1 h2{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 2px 40px;
+    background-image: url("img/icon3.jpg" );
+    font-size: 15px;
+    text-align:left;
+}
+#r1 ul li{
+    margin: 2px 0px 0px 0px;
+    font-size: 15px;
+    padding: 5px 0px 2px 16px;
+    background:url(img/icon1.JPG) no-repeat 1px;
+}
+#r1 ul a{
+    display: block;
+    width: 150px;
+    border-bottom-color: #ffc73d;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    padding-bottom: 5px;
+}
+#ri{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    border-top: solid #ffc73d 5px;
+    float: right;
+}
+#r2{
+    border-top: solid #ffc73d 5px;
+    float: left;
+    margin:2px 0px 2px 0px;
+    padding: 0px 0px 2px 0px;
+    width: 700px;
+    height: 600px;
+    background-color: #343437;
+}
+#r2 ul{
+    list-style: none;
+    margin: 0px;
+    padding: 5px 18px 5px 18px;
+}
+#r2 h2{
+     margin: 0px 0px 0px 0px;
+     padding: 0px 0px 2px 40px;
+     background-image: url("img/icon3.jpg" );
+     font-size: 15px;
+     text-align:left;
+ }
+#r2 ul p{
+    font-family: "微软雅黑";
+    font-size: 20px;
+    color: #ffc744;
+    margin: 3px 0px 0px 0px;
+    padding: 2px 2px 2px 30px;
+    background: url("img/icon4.png") left no-repeat ;
+}
+#r2 ul h1{
+    text-align: left;
+    font-size: 15px;
+    font-family: "Arial Unicode MS";
+    font-weight: normal;
+    color: white;
+    margin: 2px 0px 2px 0px;
+    padding:2px 2px 2px 15px ;
+}
+#r2 i{
+    position: relative;
+    left: 390px;
+    bottom: 480px;
+    margin: 2px 2px 2px 0px;
+    padding: 2px 2px 2px 0px;
+}
+#r2 a{
+    display: block;
+    padding: 5px 0px 0px 15px;
+    margin: 0px;
+    color: #ffc73d;
+    font-size: 15px;
+}
+#r2 a:visited{
+    color: #9f9fa2;
+}
+#r2 a:hover{
+    color: #fff6aa;
+}
+#r3{
+    border-top: solid #ffc73d 5px;
+    float: left;
+    margin:2px 0px 2px 0px;
+    padding: 0px 0px 2px 0px;
+    width: 700px;
+    height: 260px;
+    background-color: #343437;
+}
+#r3 h1{
+    margin: 0px 0px 0px 0px;
+    padding: 1px 0px 2px 40px;
+    background-image: url("img/icon3.jpg" );
+    font-size: 15px;
+    text-align:left;
+}
+#r3 img{
+    margin: 2px 5px 2px 5px;
+    padding: 0px 1px 0px 0px;
+    border: solid #ffc73d 1px;
+}
+
+
+

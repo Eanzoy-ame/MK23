@@ -1,0 +1,134 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+    font-family: Arial;
+    margin: auto;
+    text-align: center;
+    padding: 0px;
+    background-color: #3e3e41;
+    color: #ffffff;;
+}
+#header{
+    margin: auto;
+    height: 300px;
+    width: 1000px;
+}
+#globallink{
+    margin: 0px;
+    padding: 0px;
+}
+#globallink ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+#globallink li{
+    margin: 0px 2px 0px 0px;
+    width: 198px;
+    float: left;
+    text-align: center;
+}
+#globallink a{
+    font-size: 18px;
+    color: #251710;
+    text-decoration: none;
+    display: block;
+    padding: 10px 6px 10px 6px;
+    background-image:url("img/link2%20icon2.png");
+    margin: 0px;
+}
+#globallink a:hover{
+    color: white;
+    text-decoration: none;
+}
+#main{
+    position: relative;
+    width: 1000px;
+    height: 800px;
+    margin: 2px 0px 2px 431px;
+    padding: 2px 2px 2px 2px;
+}
+#j{
+    position: relative;
+    background-color: #343437;
+    width: 430px;
+    height: 500px;
+    margin: 47px 0px 0px 0px;
+}
+#j ul,#r ul{
+    list-style: none;
+    margin: 0px;
+    padding: 15px 18px 5px 18px;
+}
+#j h1{
+    background:url("img/icon5.jpg") no-repeat;
+    font-size: 23px;
+    margin: 10px 0px 3px 0px;
+    text-align: left;
+    padding: 0px 25px 8px 30px;
+}
+#j p,#r p{
+    font-size: 16px;
+    text-align: left;
+    margin: 4px 0px 8px 0px;
+    padding: 0px 0px 8px 0px;
+
+}
+#j ul p{
+    text-indent: 25px;
+}
+#r{
+    float: right;
+    bottom: 500px;
+    position: relative;
+    width: 567px;
+    height: 500px;
+    background-color: #343437;
+
+}
+#r h1{
+    text-align: center;
+    background:url("img/icon5.jpg")center no-repeat;
+    font-size: 23px;
+    margin: 12px 0px 3px 0px;
+    text-align: center;
+    padding: 10px 25px 8px 30px;
+}
+#r p{
+    font-size: 18px;
+    text-align: center;
+    margin: 4px 2px 8px 2px;
+    padding: 2px 2px 8px 2px;
+}
+#footer{
+    clear: both;
+    position: relative;
+    left: 433px;
+    bottom: 497px;
+    text-align: left;
+    width: 1000px;
+    height: 780px;
+    background-color: #343437;
+}
+#footer img{
+    float: right;
+    padding: 0px;
+    margin: 0px 2px 2px 2px;
+}
+#footer i{
+    position: absolute;
+    left: 492px;
+    top: 241px;
+    float: right;
+    padding: 0px;
+    margin: 0px 2px 2px 2px;
+}
+#footer h1{
+    text-align: center;
+    background:url("img/icon5.jpg")center no-repeat;
+    background-size: 800px 26px;
+    font-size: 23px;
+    margin: 12px 0px 3px 0px;
+    padding: 10px 25px 8px 30px;
+}
